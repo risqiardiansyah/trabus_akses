@@ -1,0 +1,17 @@
+D:\CSharp\Trabus Akses\Trabus Akses\bin\Debug\Trabus Akses.exe.config
+D:\CSharp\Trabus Akses\Trabus Akses\bin\Debug\Trabus Akses.exe
+D:\CSharp\Trabus Akses\Trabus Akses\bin\Debug\Trabus Akses.pdb
+D:\CSharp\Trabus Akses\Trabus Akses\obj\Debug\Trabus Akses.csprojResolveAssemblyReference.cache
+D:\CSharp\Trabus Akses\Trabus Akses\obj\Debug\Trabus_Akses.Form1.resources
+D:\CSharp\Trabus Akses\Trabus Akses\obj\Debug\Trabus_Akses.Properties.Resources.resources
+D:\CSharp\Trabus Akses\Trabus Akses\obj\Debug\Trabus Akses.csproj.GenerateResource.Cache
+D:\CSharp\Trabus Akses\Trabus Akses\obj\Debug\Trabus Akses.exe
+D:\CSharp\Trabus Akses\Trabus Akses\obj\Debug\Trabus Akses.pdb
+D:\CSharp\Trabus Akses\Trabus Akses\obj\Debug\Trabus_Akses.FormBus.resources
+D:\CSharp\Trabus Akses\Trabus Akses\obj\Debug\Trabus_Akses.FormTravel.resources
+D:\CSharp\Trabus Akses\Trabus Akses\obj\Debug\Trabus_Akses.KonfirmasiPemesanan.resources
+D:\CSharp\Trabus Akses\Trabus Akses\obj\Debug\Trabus_Akses.PemesananSelesai.resources
+D:\CSharp\Trabus Akses\Trabus Akses\obj\Debug\Trabus_Akses.Login.resources
+D:\CSharp\Trabus Akses\Trabus Akses\obj\Debug\Trabus_Akses.DaftarTiket.resources
+D:\CSharp\Trabus Akses\Trabus Akses\obj\Debug\Trabus_Akses.NavAdmin.resources
+D:\CSharp\Trabus Akses\Trabus Akses\obj\Debug\Trabus_Akses.DaftarPemesan.resources
